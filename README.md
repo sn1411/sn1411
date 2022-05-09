@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning convulational neural networks
 - 🤝 I’m looking for help with deep learning frameworks 
 - 📝 All my projects are available at https://github.com/sn1411
-- 💞 My life revolves around maths, code, data science and productivity
 - 📫 Reach me at https://www.linkedin.com/in/shilpa-nayak-095a12207/
 
 <!---
