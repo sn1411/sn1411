@@ -1,4 +1,4 @@
-# Hi 🙂
+# Hi
 - 👋 I’m Shilpa Nayak
 - 👩‍🎓 MSc Applied mathematics and data science student
 - 🎓 Additional online B.Sc degree in Programming and data science at IIT Madras
