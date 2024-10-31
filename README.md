@@ -1,6 +1,7 @@
 # Hi
 - 👋 I’m Shilpa Nayak
-- 👩‍🎓 MSc Applied mathematics and data science student
+- 🏢 Data Science Analyst
+- 👩‍🎓 MSc Applied mathematics and data science
 - 🎓 Additional online B.Sc degree in Programming and data science at IIT Madras
 - 👀 I’m interested in machine learning, deep learning and data analytics
 - 📝 All my projects are available at https://github.com/sn1411
